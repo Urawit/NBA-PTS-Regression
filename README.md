@@ -5,14 +5,13 @@ This project implements a simple linear regression model to predict the points p
 ## Usage
 To train a model which can predict/estimate the PTS of NBA players using Multiple linear regression (Gradient Descent)
 
-### Requirements
-- Python 3
-- NumPy
-- pandas
-- matplotlib
+## Requirements
+- [Python 3](https://www.python.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+- [NumPy](https://numpy.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
+- [pandas](https://pandas.pydata.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+- [matplotlib](https://matplotlib.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
 
-### Installation
-
+## Installation
 To get started with the NBA Points Per Game Linear Regression project, follow these steps:
 
 1. **Clone the Repository**:
@@ -44,4 +43,4 @@ The dataset used in this project contains NBA player statistics for the 2022-202
 The linear regression model successfully predicts the points per game of NBA players based on the provided features. The RMSE value provides insight into the model's accuracy, and visualizations help understand the relationship between predicted and actual points per game.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
